@@ -12,7 +12,7 @@ Option Strict On
 Option Explicit On
 
 
-Namespace My
+Namespace MyNameSpace
 
     <Global.System.Runtime.CompilerServices.CompilerGeneratedAttribute(), _
      Global.System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "11.0.0.0"), _
@@ -22,7 +22,7 @@ Namespace My
 
         Private Shared defaultInstance As MySettings = CType(Global.System.Configuration.ApplicationSettingsBase.Synchronized(New MySettings), MySettings)
 
-#Region "My.Settings Auto-Save Functionality"
+    #Region "MyNameSpace.Settings Auto-Save Functionality"
 #If _MyType = "WindowsForms" Then
         Private Shared addedHandler As Boolean
 
@@ -54,6 +54,7 @@ Namespace My
             End Get
         End Property
     End Class
+'asdasd lkjiw .lhk.k kuhkhj .
 End Namespace
 
 Namespace My
